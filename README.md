@@ -1,4 +1,4 @@
-to compile this program please type in the terminal:
+to compile this code please type in the terminal:
 
 make
 
